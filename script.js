@@ -1,7 +1,7 @@
 function fibonacci(num) {
 // your code here
-	int a = 0
-	int b = 1
+	let a = 0
+	let b = 1
 	if(num==0)
 	{
 		return a;
